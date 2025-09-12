@@ -1,0 +1,383 @@
+---
+title: "Making Sense of Health Data: Choosing Charts that Fit the Question"
+author: "Lesley Chapman Hannah, Ph.D., M.S.<br>College of Graduate Studies<br>Northeast Ohio Medical University"
+
+format: 
+  revealjs:
+    #theme: solarized
+    css: style.css
+    slide-number: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    logo: images/Flame.jpg
+    #css: styles.css
+    
+---
+
+## Overview
+
+::: incremental
+- Discussion on effective visual communication
+- Overview of common data types
+- Overview of plot selection based on data types
+
+
+:::
+
+
+::: footer
+
+:::
+
+
+
+## Guidance on effective visual communication
+
+<br>
+Effective graphs
+
+::: incremental
+- Intuitive, legible
+- Proximity and alignment to facilitate comparison
+- Use labels and annotations to add clarity to the message
+
+
+:::
+
+
+::: footer
+:::
+
+
+## Guidance on effective visual communication
+
+<br>
+
+- Effective graphs
+
+- Show **data** clearly
+
+::: incremental
+- Avoid misrepresentation (use appropriate scales)
+- **Choose appropriate graph** type to display your data
+:::
+
+::: footer
+:::
+
+
+
+## 
+
+<br>
+
+**Research Question** $\rightarrow$ Data $\rightarrow$ Graph
+
+::: footer
+:::
+
+
+## Research Question
+
+
+::: columns
+::: {.column width="60%"}
+![](images/question_qual_1.png){.border .border-thick}
+:::
+
+::: {.column width="30%"}
+
+:::
+<span style="font-size:60%">Peng, R. (2019). Simply Statistics.</span>
+:::
+::: footer
+:::
+
+## Research Question
+
+
+::: columns
+::: {.column width="60%"}
+![](images/question_qual_2.png){.border .border-thick}
+:::
+
+::: {.column width="30%"}
+
+:::
+<span style="font-size:60%">Peng, R. (2019). Simply Statistics.</span>
+:::
+::: footer
+:::
+
+## 
+
+<br>
+
+Research Question $\rightarrow$ **Data** $\rightarrow$ Graph
+
+::: footer
+:::
+
+## Data
+
+
+::: columns
+::: {.column width="90%"}
+![](images/viz_data_1.png){.border .border-thick}
+:::
+
+::: {.column width="10%"}
+
+:::
+:::
+::: footer
+:::
+
+## Data
+
+
+::: columns
+::: {.column width="90%"}
+![](images/viz_data_2.png){.border .border-thick}
+:::
+
+::: {.column width="10%"}
+
+:::
+:::
+::: footer
+:::
+
+## Data
+
+
+::: columns
+::: {.column width="90%"}
+![](images/viz_data_3.png){.border .border-thick}
+:::
+
+::: {.column width="10%"}
+
+:::
+:::
+::: footer
+:::
+
+## Data
+
+
+::: columns
+::: {.column width="90%"}
+![](images/viz_data_4.png){.border .border-thick}
+:::
+
+::: {.column width="10%"}
+
+:::
+:::
+::: footer
+:::
+
+## Data
+
+
+::: columns
+::: {.column width="90%"}
+![](images/viz_data_5.png){.border .border-thick}
+:::
+
+::: {.column width="10%"}
+
+:::
+:::
+::: footer
+:::
+
+
+## Data
+
+
+::: columns
+::: {.column width="90%"}
+![](images/viz_data_6.png){.border .border-thick}
+:::
+
+::: {.column width="10%"}
+
+:::
+:::
+::: footer
+:::
+
+## Data
+
+
+::: columns
+::: {.column width="90%"}
+![](images/viz_data_7.png){.border .border-thick}
+:::
+
+::: {.column width="10%"}
+
+:::
+:::
+::: footer
+:::
+
+
+## 
+
+<br>
+
+Research Question $\rightarrow$ Data $\rightarrow$ **Graph**
+
+::: footer
+:::
+
+
+## Graphs
+
+
+::: columns
+::: {.column width="60%"}
+![](images/graph_viz_1.png){.border .border-thick}
+:::
+
+::: {.column width="30%"}
+
+:::
+
+<span style="font-size:60%">Andrew V. Abela (2020) [adapted]</span>
+:::
+::: footer
+:::
+
+## Graphs
+
+
+::: columns
+::: {.column width="60%"}
+![](images/graph_viz_2.png){.border .border-thick}
+:::
+
+::: {.column width="30%"}
+
+:::
+
+<span style="font-size:60%">Andrew V. Abela (2020) [adapted]</span>
+:::
+::: footer
+:::
+
+## Graphs
+
+
+::: columns
+::: {.column width="60%"}
+![](images/graph_viz_3.png){.border .border-thick}
+:::
+
+::: {.column width="30%"}
+
+:::
+
+<span style="font-size:60%">Andrew V. Abela (2020) [adapted]</span>
+:::
+::: footer
+:::
+
+
+## Graphs
+
+
+::: columns
+::: {.column width="60%"}
+![](images/graph_viz_4.png){.border .border-thick}
+:::
+
+::: {.column width="30%"}
+
+:::
+
+<span style="font-size:60%">Andrew V. Abela (2020) [adapted]</span>
+:::
+::: footer
+:::
+
+
+## Graphs
+
+
+::: columns
+::: {.column width="60%"}
+![](images/graph_viz_5.png){.border .border-thick}
+:::
+
+::: {.column width="30%"}
+
+:::
+
+<span style="font-size:60%">Andrew V. Abela (2020) [adapted]</span>
+:::
+::: footer
+:::
+
+## Guidance on Improving visual communication
+
+<br>
+
+- Communication
+
+
+
+::: incremental
+- Have a clear purpose
+    - Know the purpose of creating the graph
+    - Identify the quantitative evidence to support the purpose
+    - Identify the audience and focus the design to support their needs
+
+
+:::
+
+
+::: footer
+:::
+
+
+
+## Summary
+
+<br>
+
+Let your research question and data drive the plot choice
+
+::: incremental
+- build effective graphs
+- visuals that are intuitive and legible because their geometry matches the variables
+:::
+::: footer
+:::
+
+## Summary
+
+<br>
+
+Design question to what you want to reveal in the data:
+
+::: incremental
+- comparison, distribution, relationship, or composition
+:::
+::: footer
+:::
+
+
+
+
+
+
+
+
+
+
+
