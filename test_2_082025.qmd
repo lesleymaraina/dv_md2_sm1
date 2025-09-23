@@ -1,5 +1,5 @@
 ---
-title: "Making Sense of Health Data: Choosing Charts that Fit the Question"
+title: "Visual Communication: Data Types and Plot Selection"
 author: "Lesley Chapman Hannah, Ph.D., M.S.<br>College of Graduate Studies<br>Northeast Ohio Medical University"
 
 format: 
@@ -59,8 +59,8 @@ Effective graphs
 - Show **data** clearly
 
 ::: incremental
-- Avoid misrepresentation (use appropriate scales)
-- **Choose appropriate graph** type to display your data
+  - Avoid misrepresentation (use appropriate scales)
+  - **Choose appropriate graph** type to display your data
 :::
 
 ::: footer
@@ -236,6 +236,83 @@ Research Question $\rightarrow$ Data $\rightarrow$ **Graph**
 :::
 
 
+## Visual Encoding of Data
+
+
+::: columns
+::: {.column width="60%"}
+
+:::
+
+::: {.column width="30%"}
+
+:::
+
+
+:::
+::: footer
+:::
+
+
+
+
+
+## Visual Encoding of Data
+
+
+::: columns
+::: {.column width="60%"}
+![](images/categorical_data.png){.border .border-thick}
+:::
+
+::: {.column width="30%"}
+
+:::
+
+<span style="font-size:60%">O’Donoghue, S. et. al. (2018) [adapted]</span>
+:::
+::: footer
+:::
+
+
+## Visual Encoding of Data
+
+
+::: columns
+::: {.column width="60%"}
+![](images/connectivity.png){.border .border-thick}
+:::
+
+::: {.column width="30%"}
+
+:::
+
+<span style="font-size:60%">O’Donoghue, S. et. al. (2018) [adapted]</span>
+:::
+::: footer
+:::
+
+
+
+
+## Visual Encoding of Data
+
+
+::: columns
+::: {.column width="40%"}
+![](images/quant_data.png){.border .border-thick}
+:::
+
+::: {.column width="60%"}
+
+:::
+
+<span style="font-size:60%">O’Donoghue, S. et. al. (2018) [adapted]</span>
+:::
+::: footer
+:::
+
+
 ## Graphs
 
 
@@ -322,6 +399,9 @@ Research Question $\rightarrow$ Data $\rightarrow$ **Graph**
 :::
 ::: footer
 :::
+
+
+
 
 ## Guidance on Improving visual communication
 
