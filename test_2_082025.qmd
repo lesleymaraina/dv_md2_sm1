@@ -400,6 +400,21 @@ Research Question $\rightarrow$ Data $\rightarrow$ **Graph**
 ::: footer
 :::
 
+## Tools of the trade
+
+
+::: columns
+::: {.column width="90%"}
+![](images/tools_trade.png){.border .border-thick}
+:::
+
+::: {.column width="10%"}
+
+:::
+
+:::
+::: footer
+:::
 
 
 
